@@ -1,0 +1,19 @@
+{
+  "name": "trim",
+  "version": "1.0.0",
+  "description": "### Formatting CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casinca4/node-trim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casinca4/node-trim/issues"
+  },
+  "homepage": "https://github.com/casinca4/node-trim#readme"
+}
